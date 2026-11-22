@@ -22,13 +22,6 @@ I'm currently learning these:
 - **Visualisation:** Power BI
 - **Design:** Graphic design
 
-## Projects
-
-| Project | What it shows |
-| :--- | :--- |
-| [PROJECT NAME](https://github.com/nooran-0510/REPO-NAME) | [PLACEHOLDER: one line on what this project shows] |
-| [PROJECT NAME](https://github.com/nooran-0510/REPO-NAME) | [PLACEHOLDER: one line on what this project shows] |
-
 ## Contact
 
 - LinkedIn: [mahnoor-khan](https://www.linkedin.com/in/mahnoor-khan-6a0665243)
