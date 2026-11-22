@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Mahnoor Khan</title>
+  <desc id="d">Mahnoor Khan, Business Intelligence and Analytics student at IoBM</desc>
+  <rect width="1200" height="300" fill="#6B0F1A"/>
+  <rect x="80" y="86" width="6" height="128" fill="#F3E6E8"/>
+  <text x="112" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Mahnoor Khan</text>
+  <text x="114" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#F3E6E8">Business Intelligence &amp; Analytics student at IoBM</text>
+</svg>
