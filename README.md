@@ -1,16 +1,35 @@
-## Hi there 👋
+<img src="assets/banner.svg" alt="Mahnoor Khan, Business Intelligence and Analytics student at IoBM" width="100%">
 
-<!--
-**nooran-0510/nooran-0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Intelligence and Analytics student at IoBM, learning Python at Bioskillz.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Mahnoor Khan, a third-semester Business Intelligence and Analytics student at IoBM. Alongside my degree, I'm learning Python from the basics at Bioskillz, and building skills in SQL, Excel and Power BI. I'm looking for a remote internship in a relevant field.
+
+## Stats
+
+| CGPA | Semester | Tools in progress |
+| :---: | :---: | :---: |
+| 3.61 | 3rd | 4 |
+
+## Tools
+
+I'm currently learning these:
+
+- **Programming:** Python
+- **Databases:** SQL
+- **Spreadsheets:** Excel
+- **Visualisation:** Power BI
+- **Design:** Graphic design
+
+## Projects
+
+| Project | What it shows |
+| :--- | :--- |
+| [PROJECT NAME](https://github.com/nooran-0510/REPO-NAME) | [PLACEHOLDER: one line on what this project shows] |
+| [PROJECT NAME](https://github.com/nooran-0510/REPO-NAME) | [PLACEHOLDER: one line on what this project shows] |
+
+## Contact
+
+- LinkedIn: [mahnoor-khan](https://www.linkedin.com/in/mahnoor-khan-6a0665243)
+- Email: [mahnoorkhan0510@gmail.com](mailto:mahnoorkhan0510@gmail.com)
