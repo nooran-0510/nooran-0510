@@ -4,7 +4,7 @@
 
 ## About
 
-I'm Mahnoor Khan, a third-semester Business Intelligence and Analytics student at IoBM. Alongside my degree, I'm learning Python from the basics at Bioskillz, and building skills in SQL, Excel and Power BI. I'm looking for a remote internship in a relevant field.
+I'm Mahnoor Khan, a third-semester Business Intelligence and Analytics student at IoBM. Alongside my degree, I'm learning Python at Bioskillz, and building skills in SQL, Excel and Power BI. I'm looking for a remote internship in a relevant field.
 
 ## Stats
 
